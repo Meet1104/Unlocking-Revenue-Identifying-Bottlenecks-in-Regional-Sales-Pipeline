@@ -60,14 +60,6 @@ Contains 30 rows of real-world-like sales data.
 
 ---
 
-# 🛠️ MySQL Setup
-
-## **1️⃣ Create Database**
-
-```sql
-CREATE DATABASE salesdb;
-USE salesdb;
-
 # 📊 PART 2 – Excel / Power BI Dashboard
 
 This section focuses on building visual dashboards using **Excel** or **Power BI** based on SQL outputs or the original sales dataset.
@@ -107,11 +99,9 @@ This chart helps identify:
 - Regions with frequent cancellations  
 - Operational or logistic issues  
 
----
+--_
 
-## 📌 3️⃣ Line Chart: Monthly Sales Trend
 
-**Goal:** Identify time-based patterns in completed sales.
+  
 
-### Steps:
-- Use SQL Query fo
+
