@@ -60,7 +60,7 @@ Contains 30 rows of real-world-like sales data.
 
 ---
 
-# 📊 PART 2 – Excel / Power BI Dashboard
+# 📊 Excel / Power BI Dashboard
 
 This section focuses on building visual dashboards using **Excel** or **Power BI** based on SQL outputs or the original sales dataset.
 
